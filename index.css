@@ -1,0 +1,67 @@
+.review_bg
+{
+    padding: 30px;
+    background-color:rgba(17, 17, 17, 0.05);
+    border-radius: 34px;
+}
+#Star_under
+{
+    font-size: 15px;
+    position: relative;
+    top:8px;
+}
+#under_star
+{
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 700;
+    
+}
+#unser_star_6
+{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #11111180;
+}
+.asd
+{
+    position: relative;
+    left:-20px;
+    top:-4px;
+}
+#google_con
+{
+    font-size: 13px;
+    color: #11111180;
+}
+#google_con > span{
+    color: blue;
+    font-weight: 100;
+    opacity: 0.6;
+}
+#review_bg > .star_img
+{
+    
+}
+@media(max-width:768px)
+{
+    .review_bg {
+        width: 320px;
+        
+    }
+}
+@media(max-width:992px)
+{
+    .noowo
+    {
+        display: none;
+    }
+}
+
+.google_part
+{
+    position: relative;
+    left: -7px;
+    top:5px;
+}
